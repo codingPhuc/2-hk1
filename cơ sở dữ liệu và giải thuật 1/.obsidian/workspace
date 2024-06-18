@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "f0bb7b4453969ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e690b2104708f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian notes/Object referents.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02135d2fbd0062c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "61587a542ef1870e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf66f28705c849eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7af4476ffb7dfb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#definition",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9efc9a6b113d42b4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "a8aeedfe9c2c76eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ffe020c280a4083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60388794808a6387",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian notes/Object referents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1790b9e9e5b45504",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian notes/Object referents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba2e637b12067813",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eafbb11dc7594cac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian notes/Object referents.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "d7e690b2104708f3",
+  "lastOpenFiles": [
+    "obsidian notes/Link list.md",
+    "obsidian notes/data structor.md",
+    "obsidian notes/Object referents.md",
+    "Pasted image 20220827152724.png",
+    "Pasted image 20220827154044.png",
+    "Pasted.md",
+    "pdf/Ramakrishnan-Database-Management-Systems-3rd-Edition-1-1.pdf",
+    "pdf/58da544eee3435de0e6e5a25.pdf",
+    "Pasted image 20220827154259.png",
+    "pdf/Azal2020-01-22-12-28-11-76901.pdf"
+  ]
+}
